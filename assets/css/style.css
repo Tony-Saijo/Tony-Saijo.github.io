@@ -15,7 +15,7 @@ body{
 }
 
 a{
-    color: #007BA7;
+    color: #6e7f80;
     text-decoration: none;
 }
 a:hover{
@@ -60,13 +60,13 @@ article p{
     padding: 10px
 }
 article a{
-    color: #007BA7;
+    color: #6e7f80;
 }
 article h3{
-    color: #FF9999;
+    color: #6e7f80;
 }
 article a:visited{
-    color: #007BA7;
+    color: #6e7f80;
 }
 article img{
     max-width: 550px;
@@ -79,13 +79,13 @@ article.list{
 }
 aside{
     margin-top: 20px;
-    border-top: 1px solid #F4F6F7;
+    border-top: 1px solid #6e7f80;
 }
 blockquote{
     font-style: italic;
     padding: 5px 15px;
     margin: 10px;
-    border-left: 5px solid #F4F6F7
+    border-left: 5px solid #6e7f80
 }
 
 article > ul, article > ol, .post-list ul, .post-list ol{
@@ -101,7 +101,7 @@ article > ul, article > ol, .post-list ul, .post-list ol{
     padding: 0 10px 0 0
 }
 .post-list > li{
-    border-bottom: 1px solid #F4F6F7;
+    border-bottom: 1px solid #6e7f80;
     padding: 20px 10px;
 }
 .post-list > li:last-child{
@@ -117,7 +117,7 @@ article > ul, article > ol, .post-list ul, .post-list ol{
 }
 
 .paginator{
-    border-top: 1px solid #F4F6F7;
+    border-top: 1px solid #6e7f80;
     padding: 15px;
     margin-top: 20px;
     font-weight: bold;
